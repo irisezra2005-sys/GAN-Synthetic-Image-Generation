@@ -1,0 +1,7 @@
+Required Libraries and Tools
+
+- Python
+- PyTorch
+- Torchvision
+- NumPy
+- Matplotlib
